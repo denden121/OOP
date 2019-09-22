@@ -1,0 +1,19 @@
+﻿  coursera.cpp
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(37,103): error C2512:  Specialization: нет подходящего конструктора по умолчанию
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(9,8): message :   см. объявление "Specialization"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(37,103): error C2512:  Course: нет подходящего конструктора по умолчанию
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(17,8): message :   см. объявление "Course"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(37,103): error C2512:  Week: нет подходящего конструктора по умолчанию
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(25,8): message :   см. объявление "Week"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(38,1): error C2679:  бинарный "=": не найден оператор, принимающий правый операнд типа "const std::string" (или приемлемое преобразование отсутствует)
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(16,1): message :  может быть "Specialization &Specialization::operator =(Specialization &&)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(16,1): message :  или       "Specialization &Specialization::operator =(const Specialization &)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(38,1): message :  при попытке сопоставить список аргументов "(Specialization, const std::string)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(39,1): error C2679:  бинарный "=": не найден оператор, принимающий правый операнд типа "const std::string" (или приемлемое преобразование отсутствует)
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(24,1): message :  может быть "Course &Course::operator =(Course &&)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(24,1): message :  или       "Course &Course::operator =(const Course &)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(39,1): message :  при попытке сопоставить список аргументов "(Course, const std::string)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(40,1): error C2679:  бинарный "=": не найден оператор, принимающий правый операнд типа "const std::string" (или приемлемое преобразование отсутствует)
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(32,1): message :  может быть "Week &Week::operator =(Week &&)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(32,1): message :  или       "Week &Week::operator =(const Week &)"
+C:\Users\den\source\repos\coursera\coursera\coursera.cpp(40,1): message :  при попытке сопоставить список аргументов "(Week, const std::string)"

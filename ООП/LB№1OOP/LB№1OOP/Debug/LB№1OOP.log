@@ -1,0 +1,5 @@
+﻿  LB№1OOP.cpp
+C:\Users\den\source\repos\ООП\LB№1OOP\LB№1OOP\Matrix.h(188): warning C4172:  возвращение адреса локальной или временной переменной : c
+C:\Users\den\source\repos\ООП\LB№1OOP\LB№1OOP\Matrix.h(178): warning C4172:  возвращение адреса локальной или временной переменной : c
+C:\Users\den\source\repos\ООП\LB№1OOP\LB№1OOP\Matrix.h(183): warning C4172:  возвращение адреса локальной или временной переменной : c
+  LB№1OOP.vcxproj -> C:\Users\den\source\repos\ООП\LB№1OOP\Debug\LB№1OOP.exe

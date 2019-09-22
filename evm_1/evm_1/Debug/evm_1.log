@@ -1,0 +1,5 @@
+﻿  evm_1.cpp
+C:\Users\den\source\repos\evm_1\evm_1\evm_1.cpp(97,20): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\den\source\repos\evm_1\evm_1\evm_1.cpp(43): warning C4715:  Steack::Popch: значение возвращается не при всех путях выполнения
+C:\Users\den\source\repos\evm_1\evm_1\evm_1.cpp(33): warning C4715:  Steack::Pop: значение возвращается не при всех путях выполнения
+  evm_1.vcxproj -> C:\Users\den\source\repos\evm_1\Debug\evm_1.exe
